@@ -2,7 +2,7 @@
 <testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-03T18:38:30 CST" name="GroupTesting" finished-at="2022-02-03T18:38:34 CST" duration-ms="4061">
+  <suite started-at="2022-02-05T14:46:31 CST" name="GroupTesting" finished-at="2022-02-05T14:46:35 CST" duration-ms="3434">
     <groups>
       <group name="IMDB">
         <method signature="TestCases.IMDBJasonBatemenBio()[pri:0, instance:main.java.TestCases@157632c9]" name="IMDBJasonBatemenBio" class="main.java.TestCases"/>
@@ -17,17 +17,17 @@
         <method signature="TestCases.TestCase3()[pri:0, instance:main.java.TestCases@157632c9]" name="TestCase3" class="main.java.TestCases"/>
       </group> <!-- Forbidden -->
     </groups>
-    <test started-at="2022-02-03T18:38:30 CST" name="Groupingtest" finished-at="2022-02-03T18:38:34 CST" duration-ms="4061">
+    <test started-at="2022-02-05T14:46:31 CST" name="Groupingtest" finished-at="2022-02-05T14:46:35 CST" duration-ms="3434">
       <class name="main.java.TestCases">
-        <test-method signature="IMDBJasonBatemenBio()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-03T18:38:30 CST" name="IMDBJasonBatemenBio" finished-at="2022-02-03T18:38:33 CST" duration-ms="2732" status="PASS">
+        <test-method signature="IMDBJasonBatemenBio()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-05T14:46:31 CST" name="IMDBJasonBatemenBio" finished-at="2022-02-05T14:46:34 CST" duration-ms="2065" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IMDBJasonBatemenBio -->
-        <test-method signature="IMDBTheOzarks()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-03T18:38:33 CST" name="IMDBTheOzarks" finished-at="2022-02-03T18:38:34 CST" duration-ms="905" status="PASS">
+        <test-method signature="IMDBTheOzarks()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-05T14:46:34 CST" name="IMDBTheOzarks" finished-at="2022-02-05T14:46:35 CST" duration-ms="992" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- IMDBTheOzarks -->
-        <test-method signature="TestCase3()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-03T18:38:34 CST" name="TestCase3" finished-at="2022-02-03T18:38:34 CST" duration-ms="301" status="PASS">
+        <test-method signature="TestCase3()[pri:0, instance:main.java.TestCases@157632c9]" started-at="2022-02-05T14:46:35 CST" name="TestCase3" finished-at="2022-02-05T14:46:35 CST" duration-ms="310" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TestCase3 -->
