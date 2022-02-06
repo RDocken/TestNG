@@ -6,9 +6,10 @@
         <groups>
 
             <run>
-                <include name="IMDB"/>
-                <exclude name="Fail"/>
+<!--                <include name="IMDB"/>-->
+<!--                <exclude name="Fail"/>-->
 <!--                <include name="Positive"/>-->
+                <include name="Extra"/>
 <!--                Covid tests aren't working because sending too many requests?
                     Have to pay monthly to send more requests I believe         -->
             </run>
@@ -19,5 +20,8 @@
             <class name="main.java.TestCases"> </class>
         </classes>
 
+
     </test>
+    <test name="Extra Examples"/>
+    <parameter name="first-name" value="Ryan"></parameter>
 </suite>

@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a0631e-8075-4f27-a906-d9b3e350e931" name="Changes" comment="Fixed Properties">
+    <list default="true" id="80a0631e-8075-4f27-a906-d9b3e350e931" name="Changes" comment="TESTING PULL">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestCases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +44,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="TestNG.TestCases">
+  <component name="RunManager" selected="TestNG.C:/Users/Docke/IdeaProjects/TestNG/testng.xml">
     <configuration name="C:/Users/Docke/IdeaProjects/TestNG/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -52,7 +55,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCases.createData1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -62,24 +65,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="main.java" />
       <option name="MAIN_CLASS_NAME" value="main.java.TestCases" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestCases.CovidTotals (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNG" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="main.java" />
-      <option name="MAIN_CLASS_NAME" value="main.java.TestCases" />
-      <option name="METHOD_NAME" value="CovidTotals" />
+      <option name="METHOD_NAME" value="createData1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -87,7 +73,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCases.CovidUSData (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCases.dependent" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -97,7 +83,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="main.java" />
       <option name="MAIN_CLASS_NAME" value="main.java.TestCases" />
-      <option name="METHOD_NAME" value="CovidUSData" />
+      <option name="METHOD_NAME" value="dependent" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -105,7 +91,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCases.IMDBJasonBatemenBio" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCases.testSingleString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNG" />
       <extension name="coverage">
         <pattern>
@@ -115,7 +101,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="main.java" />
       <option name="MAIN_CLASS_NAME" value="main.java.TestCases" />
-      <option name="METHOD_NAME" value="IMDBJasonBatemenBio" />
+      <option name="METHOD_NAME" value="testSingleString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCases.verifyData1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNG" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.java" />
+      <option name="MAIN_CLASS_NAME" value="main.java.TestCases" />
+      <option name="METHOD_NAME" value="verifyData1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestCases" />
-        <item itemvalue="TestNG.TestCases.IMDBJasonBatemenBio" />
         <item itemvalue="TestNG.C:/Users/Docke/IdeaProjects/TestNG/testng.xml" />
-        <item itemvalue="TestNG.TestCases.CovidUSData (1)" />
-        <item itemvalue="TestNG.TestCases.CovidTotals (1)" />
+        <item itemvalue="TestNG.TestCases.dependent" />
+        <item itemvalue="TestNG.TestCases.verifyData1" />
+        <item itemvalue="TestNG.TestCases.createData1" />
+        <item itemvalue="TestNG.TestCases.testSingleString" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644096956361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TESTING PULL">
+      <created>1644098340974</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644098340974</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,14 +190,15 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added properties" />
     <MESSAGE value="Fixed Properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed Properties" />
+    <MESSAGE value="TESTING PULL" />
+    <option name="LAST_COMMIT_MESSAGE" value="TESTING PULL" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/TestCases.java</url>
-          <line>159</line>
+          <line>161</line>
           <properties class="main.java.TestCases" method="CovidForbidden">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
