@@ -7,9 +7,10 @@
 
             <run>
 <!--                <include name="IMDB"/>-->
-<!--                <exclude name="Fail"/>-->
+                <exclude name="Fail"/>
+                <exclude name="COVID"></exclude>
 <!--                <include name="Positive"/>-->
-                <include name="Extra"/>
+<!--                <include name="Extra"/>-->
 <!--                Covid tests aren't working because sending too many requests?
                     Have to pay monthly to send more requests I believe         -->
             </run>

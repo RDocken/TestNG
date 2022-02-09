@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80a0631e-8075-4f27-a906-d9b3e350e931" name="Changes" comment="TESTING PULL">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestCases.java" afterDir="false" />
+    <list default="true" id="80a0631e-8075-4f27-a906-d9b3e350e931" name="Changes" comment="Added Extra testNG methods">
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/TestCases.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main/java/TestCases.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644098340974</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Extra testNG methods">
+      <created>1644159592081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644159592082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +196,8 @@
     <MESSAGE value="added properties" />
     <MESSAGE value="Fixed Properties" />
     <MESSAGE value="TESTING PULL" />
-    <option name="LAST_COMMIT_MESSAGE" value="TESTING PULL" />
+    <MESSAGE value="Added Extra testNG methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Extra testNG methods" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
